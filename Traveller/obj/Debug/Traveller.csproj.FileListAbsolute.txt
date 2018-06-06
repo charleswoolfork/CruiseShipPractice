@@ -1,0 +1,2 @@
+c:\users\wecancodeit\source\repos\Traveller\Traveller\obj\Debug\Traveller.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\Traveller\Traveller\obj\Debug\Traveller.csproj.CoreCompileInputs.cache
